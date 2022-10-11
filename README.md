@@ -3,7 +3,7 @@
 <img src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611ac62c69f1e022937aabc7959e101bdbd4c1e0759&rid=giphy.gif&ct=s"align="right" width="340"height="340">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royantor&label=Profile%20views&color=0e75b6&style=flat" alt="royantor" /> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **mern stack**
 
 - 💬 Ask me about **Data structure and Algorithms**
 
